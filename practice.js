@@ -155,7 +155,9 @@ var getRandomArbitrary = function() {
 */
 
 function finder () {
-  
+  getRandomArbitrary();
+  for (var i = 0; i <=numbers.length; i++)
+    
 }
    
 
